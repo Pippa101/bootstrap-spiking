@@ -1,3 +1,18 @@
-.bike-card {
-  background-color: aqua;
+body {
+  background-color: #6afaac;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+#bike-card {
+  margin-top: 100%;
+}
+
+Carousel.Item {
+  justify-self: center;
 }
